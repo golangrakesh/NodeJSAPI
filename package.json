@@ -1,0 +1,30 @@
+{
+  "name": "tuts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaibcode/NodeJS-RESTAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shoaibcode/NodeJS-RESTAPI/issues"
+  },
+  "homepage": "https://github.com/shoaibcode/NodeJS-RESTAPI#readme",
+  "description": ""
+}
